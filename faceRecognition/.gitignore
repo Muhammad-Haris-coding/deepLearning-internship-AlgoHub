@@ -1,0 +1,21 @@
+# 1. Virtual Environments & Secrets
+face_env/
+venv/
+env/
+.env
+
+# 2. Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 3. Deep Learning Model Weights
+*.pt
+*.pth
+*.onnx
+*.h5
+*.safetensors
+weights/
+checkpoints/
+models/
